@@ -1,0 +1,217 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccessControl",
+            "request": "launch",
+            "mainClass": "AccessControl",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch AcquiascentConstructor",
+            "request": "launch",
+            "mainClass": "AcquiascentConstructor",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch AcquiescentConstructorTwo",
+            "request": "launch",
+            "mainClass": "AcquiescentConstructorTwo",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayInitialization",
+            "request": "launch",
+            "mainClass": "ArrayInitialization",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicType",
+            "request": "launch",
+            "mainClass": "BasicType",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DerivedClassAutomaticWrapperToObject",
+            "request": "launch",
+            "mainClass": "DerivedClassAutomaticWrapperToObject",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DifferenceOfInitialization",
+            "request": "launch",
+            "mainClass": "DifferenceOfInitialization",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch DogBark",
+            "request": "launch",
+            "mainClass": "DogBark",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnumOfRMB",
+            "request": "launch",
+            "mainClass": "EnumOfRMB",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FieldOfClassInitialization",
+            "request": "launch",
+            "mainClass": "FieldOfClassInitialization",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstJava",
+            "request": "launch",
+            "mainClass": "FirstJava",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch GinsengOfBasicTypes",
+            "request": "launch",
+            "mainClass": "GinsengOfBasicTypes",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch InitializationOfString",
+            "request": "launch",
+            "mainClass": "InitializationOfString",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch LengthOfArray",
+            "request": "launch",
+            "mainClass": "LengthOfArray",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintStringArray",
+            "request": "launch",
+            "mainClass": "PrintStringArray",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticFieldInitialization",
+            "request": "launch",
+            "mainClass": "StaticFieldInitialization",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringInitializationLikeInstance",
+            "request": "launch",
+            "mainClass": "StringInitializationLikeInstance",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfRabits",
+            "request": "launch",
+            "mainClass": "SumOfRabits",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TankUse",
+            "request": "launch",
+            "mainClass": "TankUse",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestOfArray",
+            "request": "launch",
+            "mainClass": "TestOfArray",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestOfMathOperator",
+            "request": "launch",
+            "mainClass": "TestOfMathOperator",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPackage",
+            "request": "launch",
+            "mainClass": "TestPackage",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestThis",
+            "request": "launch",
+            "mainClass": "TestThis",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestVariableInitialization",
+            "request": "launch",
+            "mainClass": "TestVariableInitialization",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrashRecycle",
+            "request": "launch",
+            "mainClass": "TrashRecycle",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch UseClassWithoutMain",
+            "request": "launch",
+            "mainClass": "UseClassWithoutMain",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableArgumentListOfMain",
+            "request": "launch",
+            "mainClass": "VariableArgumentListOfMain",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableArgumentListTest",
+            "request": "launch",
+            "mainClass": "VariableArgumentListTest",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
+            "name": "Launch WebBank",
+            "request": "launch",
+            "mainClass": "WebBank",
+            "projectName": "java_learn_e13ac8e3"
+        }
+    ]
+}
