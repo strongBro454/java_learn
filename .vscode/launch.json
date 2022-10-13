@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Restaurant",
+            "request": "launch",
+            "mainClass": "p20221011.Restaurant",
+            "projectName": "java_learn_e13ac8e3"
+        },
+        {
+            "type": "java",
             "name": "Launch TestStringPool",
             "request": "launch",
             "mainClass": "p20220923.TestStringPool",
